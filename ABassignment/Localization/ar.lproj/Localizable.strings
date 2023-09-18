@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  ABassignment
+
+  Created by Alen George on 15/09/23.
+  
+*/
+"Country_Country" = "البلد";
+"ChangeCountry_ChangeCountry" = "تغيير البلد";
+"ChooseTheCountry_ChooseTheCountry" = "اختر البلد";
+"Jordan_Jordan" = "الأردن";
+"Palestine_Palestine" = "فلسطين";
+"Egypt_Egypt" = "مصر";
+"Lebanon_Lebanon" = "لبنان";
+"UnitedArabEmirates_UnitedArabEmirates" = "الإمارات العربية المتحدة";
+"Qatar_Qatar" = "قطر";
+"Bahrain_Bahrain" = "البحرين";
+"Algeria_Algeria" = "الجزائر";
